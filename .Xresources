@@ -1,4 +1,5 @@
 # to change the scale by Xft.dpi
+# used by .xinitrc
 
 Xft.dpi: 120
 Xft.autohint: 0
