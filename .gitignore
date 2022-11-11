@@ -1,0 +1,13 @@
+
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/neofetch/
+!/ranger/
+!/.keymap.conf
+!/.Xmodmap
+!/.env_var
+!/.Xresources
+!/.gitignore
