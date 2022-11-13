@@ -6,8 +6,10 @@
 # ... but these:
 !/neofetch/
 !/ranger/
+!/nvim/
 !/.keymap.conf
 !/.Xmodmap
 !/.env_var
 !/.Xresources
 !/.gitignore
+
