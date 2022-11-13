@@ -7,9 +7,9 @@
 !/neofetch/
 !/ranger/
 !/nvim/
+!/bash/
 !/.keymap.conf
 !/.Xmodmap
-!/.env_var
 !/.Xresources
 !/.gitignore
 
