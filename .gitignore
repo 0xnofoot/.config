@@ -4,14 +4,9 @@
 /*/
 
 # ... but these:
-!/neofetch/
-!/ranger/
-!/nvim/
-!/bash/
 !/.keymap.conf
 !/.Xmodmap
 !/.Xresources
 !/.gitignore
-
-
-!/README.md
+!/env_profile
+!/README
