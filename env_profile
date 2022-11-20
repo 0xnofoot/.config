@@ -1,6 +1,12 @@
 # it is enviroment variables file
 # source it with your shell
 
+
+# system proxy
+# export https_proxy=127.0.0.1:7890
+# export http_proxy=127.0.0.1:7890
+# export socks_proxy=127.0.0.1:7891
+
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
@@ -23,3 +29,5 @@ export PICOM_HOME=$HOME/App/picom
 export CLASH_HOME=$HOME/App/clash
 
 export _JAVA_AWT_WM_NONREPARENTING=1
+
+export PATH="/home/nofoot/.local/bin:$PATH"

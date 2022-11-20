@@ -1,7 +1,7 @@
 # to change the scale by Xft.dpi
 # used by .xinitrc
 
-Xft.dpi: 120
+Xft.dpi: 128
 Xft.autohint: 0
 Xft.lcdfilter:  lcddefault
 Xft.hintstyle:  hintfull
